@@ -21,3 +21,4 @@ Run the script:
 python script.py 
 ```
 For each region, a CSV file will be created. When a file is saved successfully, the program prints: "Saved <output.csv>"
+For demonstration purposes, three example CSV output files are included in the repository.
